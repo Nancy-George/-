@@ -1,0 +1,135 @@
+Condition,Medicine,Number of Trial Men,Number of Trial Women
+Hypertension,Lisinopril,150,120
+Diabetes,Metformin,140,110
+Asthma,Albuterol,120,90
+Osteoarthritis,Ibuprofen,110,80
+Depression,Sertraline,130,100
+COPD,Tiotropium,140,105
+Breast Cancer,Tamoxifen,0,190
+Prostate Cancer,Leuprolide,200,0
+Rheumatoid Arthritis,Methotrexate,130,95
+Obesity,Orlistat,150,110
+HIV/AIDS,Efavirenz,110,85
+Alzheimer's Disease,Donepezil,80,60
+Parkinson's Disease,Levodopa,90,70
+Chronic Kidney Disease,Losartan,120,90
+Stroke,Clopidogrel,160,120
+Hypertension,Amlodipine,175,130
+Diabetes,Glipizide,135,105
+Asthma,Montelukast,115,85
+Osteoporosis,Alendronate,100,70
+Depression,Fluoxetine,125,95
+COPD,Salmeterol,145,110
+Breast Cancer,Letrozole,0,180
+Prostate Cancer,Bicalutamide,190,0
+Rheumatoid Arthritis,Adalimumab,140,100
+Obesity,Phentermine,160,120
+HIV/AIDS,Tenofovir,115,85
+Alzheimer's Disease,Rivastigmine,85,60
+Parkinson's Disease,Pramipexole,95,65
+Chronic Kidney Disease,Epoetin alfa,125,90
+Stroke,Warfarin,170,125
+Hypertension,Valsartan,180,130
+Diabetes,Sitagliptin,140,100
+Asthma,Fluticasone,125,90
+Osteoporosis,Risedronate,105,75
+Hypertension,Atenolol,160,120
+Diabetes,Insulin,130,90
+Asthma,Budesonide,110,80
+Osteoarthritis,Naproxen,115,85
+Depression,Bupropion,120,90
+COPD,Formoterol,135,100
+Breast Cancer,Anastrozole,0,175
+Prostate Cancer,Docetaxel,180,0
+Rheumatoid Arthritis,Hydroxychloroquine,125,85
+Obesity,Lorcaserin,140,100
+HIV/AIDS,Raltegravir,105,75
+Alzheimer's Disease,Memantine,75,55
+Parkinson's Disease,Selegiline,85,60
+Chronic Kidney Disease,Cinacalcet,115,80
+Stroke,Aspirin,150,110
+Hypertension,Diltiazem,165,120
+Diabetes,Pioglitazone,125,85
+Asthma,Beclometasone,115,80
+Osteoporosis,Denosumab,95,65
+Depression,Escitalopram,130,95
+COPD,Indacaterol,140,100
+Breast Cancer,Exemestane,0,185
+Prostate Cancer,Enzalutamide,190,0
+Rheumatoid Arthritis,Tofacitinib,135,90
+Obesity,Bupropion/Naltrexone,145,105
+HIV/AIDS,Dolutegravir,110,80
+Alzheimer's Disease,Galantamine,80,55
+Parkinson's Disease,Rasagiline,90,60
+Chronic Kidney Disease,Ferrous sulfate,120,85
+Stroke,Dabigatran,160,115
+Hypertension,Candesartan,170,125
+Diabetes,Liraglutide,130,90
+Asthma,Salbutamol,120,85
+Osteoporosis,Strontium ranelate,100,70
+Hypertension,Losartan,150,100
+Diabetes,Exenatide,120,80
+Asthma,Omalizumab,110,75
+Osteoarthritis,Celecoxib,140,90
+Depression,Venlafaxine,130,85
+COPD,Glycopyrronium,150,105
+Breast Cancer,Fulvestrant,0,160
+Prostate Cancer,Abiraterone,175,0
+Rheumatoid Arthritis,Etanercept,130,85
+Obesity,Topiramate,135,95
+HIV/AIDS,Emtricitabine,110,70
+Alzheimer's Disease,Tacrine,70,45
+Parkinson's Disease,Amantadine,80,55
+Chronic Kidney Disease,Allopurinol,115,75
+Stroke,Apixaban,155,110
+Hypertension,Telmisartan,160,115
+Diabetes,Saxagliptin,125,85
+Asthma,Mepolizumab,115,70
+Osteoporosis,Ibandronate,95,60
+Depression,Mirtazapine,140,90
+COPD,Umeclidinium,145,95
+Breast Cancer,Lapatinib,0,150
+Prostate Cancer,Degarelix,180,0
+Rheumatoid Arthritis,Certolizumab,125,80
+Obesity,Sibutramine,140,90
+HIV/AIDS,Atazanavir,105,65
+Alzheimer's Disease,Bapineuzumab,75,50
+Parkinson's Disease,Tolcapone,85,55
+Chronic Kidney Disease,Dapagliflozin,120,70
+Stroke,Edoxaban,150,100
+Hypertension,Olmesartan,165,110
+Diabetes,Alogliptin,115,75
+Asthma,Reslizumab,110,65
+Osteoporosis,Teriparatide,100,60
+Depression,Desvenlafaxine,130,85
+COPD,Aclidinium,140,90
+Breast Cancer,Neratinib,0,140
+Prostate Cancer,Apalutamide,170,0
+Rheumatoid Arthritis,Baricitinib,120,75
+Obesity,Cetilistat,135,85
+HIV/AIDS,Darunavir,110,70
+Alzheimer's Disease,Aducanumab,70,45
+Parkinson's Disease,Rotigotine,80,50
+Chronic Kidney Disease,Ferric citrate,115,70
+Stroke,Tirofiban,155,100
+Hypertension,Irbesartan,160,105
+Diabetes,Canagliflozin,120,75
+Asthma,Dupilumab,115,65
+Osteoporosis,Zoledronic acid,95,55
+Depression,Vilazodone,135,80
+COPD,Roflumilast,145,90
+Breast Cancer,Trastuzumab,0,130
+Prostate Cancer,Sipuleucel-T,160,0
+Rheumatoid Arthritis,Golimumab,125,70
+Obesity,Liraglutide,140,85
+HIV/AIDS,Maraviroc,105,60
+Alzheimer's Disease,Solanezumab,75,40
+Parkinson's Disease,Bromocriptine,85,50
+Chronic Kidney Disease,Tenapanor,120,65
+Stroke,Cilostazol,150,90
+Hypertension,Eplerenone,165,105
+Diabetes,Dapagliflozin,125,70
+Asthma,Benralizumab,110,60
+Osteoporosis,Romosozumab,100,55
+Depression,Levomilnacipran,130,75
+COPD,Fluticasone/Vilanterol,140,85
